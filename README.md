@@ -1,6 +1,6 @@
 # Cloud-Data-Pipeline
 
-Step 1: Data Collection //
-Step 2: Data Cleaning//
-Step 3: Automated Data Pipeline with Airflow//
-Step 4: Data Warehouse with BigQuery//
+1. Data Collection 
+2. Data Cleaning
+3. Automated Data Pipeline with Airflow
+4. Data Warehouse with BigQuery
