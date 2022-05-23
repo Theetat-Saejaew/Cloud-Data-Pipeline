@@ -2,5 +2,6 @@
 
 1. Data Collection 
 2. Data Cleaning
-3. Automated Data Pipeline with Airflow
-4. Data Warehouse with BigQuery
+3. Upload to Data Lake(Google Storage)
+4. Automated Data Pipeline with Airflow
+5. Data Warehouse with BigQuery
